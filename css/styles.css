@@ -1,0 +1,235 @@
+#title {
+    background-image: url(wall.jpg) ;
+
+}
+body{
+    font-family: "Montserrat";
+    
+    
+    
+}
+p{
+    font-family: "Franklin Gothic Medium";
+    font-size: 2.5rem;
+    line-height: 1.5;
+   
+    color: rgb(255, 255, 255);
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+.navbar {
+    padding:0 0 4.5rem;
+    
+}
+.mima{
+    
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.allpost{
+    font-size: larger;
+    padding-top: 1.25cm;
+    padding-left: 7cm;
+}
+.navbar-brand2 {
+    font-family: "Ubuntu";
+    font-size: 1.5rem;
+    color: black;
+}
+.nav-item{
+    padding-right: 18px;
+    padding-left: 18px;
+    color: #fff;
+}
+.nav-item1{
+    padding-left: 2cm;
+    padding-top: 1.25cm;
+    
+}
+.navbar-toggler1{
+    padding-right: 2cm;
+    padding-top: 1.25cm;
+    background-color: black;
+}
+.nav-item2{
+    padding-left: 2cm;
+    padding-top: 1.35cm;
+    
+}
+.nav-item3{
+    padding-left: 2cm;
+    padding-top: 1.35cm;
+    padding-right: 1cm;
+    
+}
+.www{
+    font-size: medium;
+}
+.far{
+
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Franklin Gothic Medium";
+}
+.download-button{
+margin: 5% 3% 5% 0;
+}
+.title-image{
+   width: 280px;
+   height: 500px;
+   transform: rotate(25deg);
+   margin-left: 50px;
+   position: absolute;
+    
+}
+.features{
+    
+}
+h3{
+    font-family: "Franklin Gothic Medium";
+}
+
+#features{
+    padding: 5% 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.featured-box{
+    text-align: center;
+}
+.icon{
+    color: #ef8172 ;
+    margin-bottom: 1rem;
+    
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+    
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+h2{
+    font-family:"Franklin Gothic Medium"; 
+    font-size: 3rem;
+    line-height: 1.5;
+    
+}
+.testimonial-image{
+    width: 10%;
+     border-radius:100% ;
+     margin: 20px;
+}
+.testimonial-image1{
+    width: 20%;
+     border-radius:100% ;
+     margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 5%;
+    text-align: center;
+    
+}
+.text-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+}
+.pricing-column{
+    padding: 2% 3%;
+    text-align: center;
+}
+
+@media (max-width:1028px){
+.title-image{
+    position: relative;
+    transform: rotate(0deg);
+    margin-left: 30px;   
+}
+.pass{
+    display: none;
+}
+.hide{
+    display: none;
+}
+.xyz{
+    display: none;
+}
+.abc{
+margin-left: 4cm;
+}
+.abcd{
+    margin-left: 5.25cm;
+}
+.abcde{
+    margin-left: 4.75cm;
+}
+.abcdef{
+    margin-left: 4.7cm;
+}
+.card{
+    width: 19cm;
+    
+   
+}
+
+.no-need{
+    display: none;
+}
+#title{
+    text-align: left;
+}
+}
+@media (min-width:1028px){
+    .spy{
+        display: none;
+    }
+    .switch{
+        display: none;
+    }
+    .switch1{
+        display: none;
+    }
+    
+    
+}
+.footer-button1{
+    padding: 1% 2%;
+    margin-left: 35%;
+}
+.footer-button{
+    padding: 1% 2%;
+}
+.footer-row{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 10% 1%;
+    color: #fff;
+}
+#footer{
+    margin-top: 3rem;
+    text-align: center;
+}
+.bad{
+    margin: 1rem;
+}
+.qqq{
+ padding-right: 2cm;
+    padding-left: 2cm;
+}
